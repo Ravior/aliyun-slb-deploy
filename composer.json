@@ -1,0 +1,14 @@
+{
+    "name": "ravior/aliyun-slb-deploy",
+    "description": "基于阿里云负载均衡的后端应用发布工具",
+    "authors": [
+        {
+            "name": "zhoufei",
+            "email": "zhoufei@mail.gitlib.com"
+        }
+    ],
+    "require": {
+        "alibabacloud/slb": "^1.8",
+        "ext-json": "*"
+    }
+}
